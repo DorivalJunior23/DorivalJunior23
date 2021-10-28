@@ -13,4 +13,4 @@
   <a href="https://www.linkedin.com/in/dorival-junior-174228220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
  
-![Snake animation](https://github.com/DorivalJunior23/DorivalJunior23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DorivalJunior23/DorivalJunior23/blob/main/.github/workflows/cobra)
