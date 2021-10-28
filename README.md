@@ -4,7 +4,7 @@
 - 🌱 Estudando Atualmente: C++, Phyton, SQL e Machine Learning
 <div style="display: inline_block"><br>
   <a href="https://github.com/DorivalJunior23/Python-Projects/tree/master" target="_blank"><img align="center" alt="Dorival-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dorival-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <a href="https://github.com/DorivalJunior23/Projetos-da-Faculdade/tree/master" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img  align="center" alt="Dorival-Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
   <a href="https://instagram.com/dorival_jr_we" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
