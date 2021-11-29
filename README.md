@@ -10,7 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/DorivalJunior23/Projetos-Python" target="_blank"><img align="center" alt="Dorival-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://github.com/DorivalJunior23/Projetos-da-Faculdade/tree/master" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <a href="https://github.com/DorivalJunior23/Projetos-da-Faculdade/tree/master" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
   <img  align="center" alt="Dorival-Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
