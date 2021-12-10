@@ -1,6 +1,6 @@
-<p align="center"># Olá!! Eu sou o Dorival  <img  align="center" alt="Dorival-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></p>
+<h1 align="center"><img align="center" alt="Dorival-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Olá!! Eu sou o Dorival <img align="center" alt="Dorival-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></h1>
 
-<p align="center">- 🔭 Estou Cursando Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/doisvizinhos" target="_blank"><img src="https://img.shields.io/badge/-UTFPR--DV-black" target="_blank"></a></p>
+<p align="center">- 🔭 Estou Cursando Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/doisvizinhos" target="_blank"><img align="center" src="https://img.shields.io/badge/-UTFPR--DV-black" target="_blank"></a></p>
 <p align="center">- 🌱 Estudando Atualmente: C++, Phyton, SQL e Machine Learning</p>
 
 <div align="center">
