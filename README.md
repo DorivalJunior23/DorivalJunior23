@@ -11,7 +11,7 @@
   <h3 align="center">Conhecimentos:</h3>
 <div style="display: inline_block">
  <p align="center"><a href="https://github.com/DorivalJunior23/Projetos-Python" target="_blank"><img align="center" alt="Dorival-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://github.com/DorivalJunior23/Projetos-da-Faculdade/tree/master" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+  <a href="https://github.com/DorivalJunior23/Portf-lio" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
   
 </div>
   <h3 align="center">Onde me encontrar:</h3>
