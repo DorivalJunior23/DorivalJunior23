@@ -12,7 +12,7 @@
 <div style="display: inline_block">
  <p align="center"><a href="https://github.com/DorivalJunior23/Projetos-Python" target="_blank"><img align="center" alt="Dorival-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://github.com/DorivalJunior23/Projetos-da-Faculdade/tree/master" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-  <a href="https://docs.microsoft.com/pt-br/users/DorivalJunior-0450" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" ></a> 
+  
 </div>
   <h3 align="center">Onde me encontrar:</h3>
   <p align="center"><a href="https://instagram.com/dorival_jr_we" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
