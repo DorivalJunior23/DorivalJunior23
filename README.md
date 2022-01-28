@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" alt="Dorival-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Olá!! Eu sou o Dorival <img align="center" alt="Dorival-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></h1>
 
 <h3 align="center">- 🔭 Estou Cursando Engenharia de Software na <a href="http://www.utfpr.edu.br/campus/doisvizinhos" target="_blank"><img align="center" src="https://img.shields.io/badge/-UTFPR--DV-black" target="_blank"></a></h3>
-<h3 align="center">- 🌱 Estudando Atualmente: C++, Phyton, SQL e Machine Learning</h3>
+<h3 align="center">- 🌱 Estudando Atualmente: C++, Java e Blockchain</h3>
 
 <div align="center">
   <a href="https://github.com/DorivalJunior23">
