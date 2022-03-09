@@ -11,7 +11,7 @@
   <img height="171em" src="https://github-readme-stats.vercel.app/api?username=DorivalJunior23&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorivalJunior23&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  <h3 align="center">Knowledges:</h3>
+  <h3 align="center">Knowledge:</h3>
 <div style="display: inline_block">
  <p align="center"><a href="https://github.com/DorivalJunior23/Projetos-Python" target="_blank"><img align="center" alt="Dorival-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://github.com/DorivalJunior23/Portf-lio" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
