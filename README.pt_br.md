@@ -15,6 +15,7 @@
 <div style="display: inline_block">
  <p align="center"><a href="https://github.com/DorivalJunior23/Projetos-Python" target="_blank"><img align="center" alt="Dorival-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://github.com/DorivalJunior23/Portf-lio" target="_blank"><img align="center" alt="Dorival-C" height="30" width="40" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+    <a href="https://github.com/DorivalJunior23/PHP" target="_blank"><img align="center" alt="Dorival-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    <a href="https://github.com/DorivalJunior23/Projetos-Java" target="_blank"><img align="center" alt="Dorival-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   
 </div>
